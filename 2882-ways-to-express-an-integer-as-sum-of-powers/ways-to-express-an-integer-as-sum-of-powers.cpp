@@ -1,6 +1,6 @@
 #include <vector>
 using namespace std;
-static const int MOD =1'000'000'007;
+static const int MOD =1e9+7;
 
 class Solution {
 public:
